@@ -21,10 +21,14 @@ I also am very active in the [**ACM**](https://acmucsd.com/) and [**TSE**](https
 
 ```print("Hello World!")```
 
-[link to README](./index.md)
+[link to README](./README.md)
 
 **Bucket List Items:**
 - [ ] Own a cat
 - [ ] Make a million dollars
 - [x] Play Guitar
 
+I also love cats and trying to stay active!
+
+![Guitar.png](./Guitar.png)
+![Cat.gif](./cat.gif)
