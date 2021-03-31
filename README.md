@@ -2,3 +2,5 @@
 Lab 1 of CSE 110
 
 ## Thomas's User Page
+
+### JavaScript is cool!
